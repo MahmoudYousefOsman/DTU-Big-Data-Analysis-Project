@@ -6,4 +6,15 @@
 
 <img width="1851" height="1043" alt="Screen Shot 2026-10-27 at 6 57 38 PM" src="https://github.com/user-attachments/assets/17137451-db03-4ea2-95b8-b4caaf771408" />
 
+# DTU-Big-Data-Analysis-Project
 
+Developed a machine learning system for predicting house prices using the King County Housing Dataset.
+The project focused on data preprocessing, feature engineering, and building a predictive model using Random Forest Regression to analyze factors affecting housing prices and improve prediction accuracy.
+
+Key contributions:
+Data cleaning and preprocessing using Python
+Feature extraction and data analysis
+Building and training machine learning models
+Model evaluation and performance optimization
+Applying AI and data analytics techniques to real-world datasets
+Technologies used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Machine Learning, Random Forest Regression.
