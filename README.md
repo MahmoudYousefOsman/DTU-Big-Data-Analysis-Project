@@ -53,11 +53,3 @@ This project focuses on extracting actionable insights from large-scale real est
 </table>
 
 ---
-
-## ⚙️ Getting Started
-
-To run the analysis locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/DTU-Big-Data-Analysis-Project.git](https://github.com/YOUR_USERNAME/DTU-Big-Data-Analysis-Project.git)
