@@ -9,25 +9,6 @@ This project focuses on extracting actionable insights from large-scale real est
 
 ---
 
-## 🛠️ Tech Stack & Libraries
-
-- **Language:** Python
-- **Data Manipulation & Analysis:** Pandas, NumPy
-- **Machine Learning & Modeling:** Scikit-learn (Random Forest Regression)
-- **Data Visualization:** Matplotlib, Seaborn
-- **Version Control:** Git & GitHub
-
----
-
-## 📊 Key Contributions & Pipeline
-
-- **Data Preprocessing & Cleaning:** Handled missing values, treated outliers, and normalized data distributions to ensure high input quality.
-- **Feature Engineering & Extraction:** Derived meaningful features from raw dataset attributes to capture hidden market trends and improve model sensitivity.
-- **Model Training & Evaluation:** Developed and optimized regression models, utilizing metrics like RMSE and R-squared to evaluate performance.
-- **Exploratory Data Analysis (EDA):** Visualized correlations between housing features (location, square footage, grade) and market prices.
-
----
-
 ## 📸 Project Visualizations & Analysis
 
 <table>
@@ -51,5 +32,23 @@ This project focuses on extracting actionable insights from large-scale real est
     </td>
   </tr>
 </table>
+
+## 🛠️ Tech Stack & Libraries
+
+- **Language:** Python
+- **Data Manipulation & Analysis:** Pandas, NumPy
+- **Machine Learning & Modeling:** Scikit-learn (Random Forest Regression)
+- **Data Visualization:** Matplotlib, Seaborn
+- **Version Control:** Git & GitHub
+
+---
+
+## 📊 Key Contributions & Pipeline
+
+- **Data Preprocessing & Cleaning:** Handled missing values, treated outliers, and normalized data distributions to ensure high input quality.
+- **Feature Engineering & Extraction:** Derived meaningful features from raw dataset attributes to capture hidden market trends and improve model sensitivity.
+- **Model Training & Evaluation:** Developed and optimized regression models, utilizing metrics like RMSE and R-squared to evaluate performance.
+- **Exploratory Data Analysis (EDA):** Visualized correlations between housing features (location, square footage, grade) and market prices.
+
 
 ---
